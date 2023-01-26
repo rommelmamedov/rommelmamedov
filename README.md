@@ -1,12 +1,28 @@
-## Hello there 👋
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> 
+
+## About me 🧑🏻‍💻
 
 I'm a frontend engineer with aiming to build accessible and useful web stuff. I enjoy developing user interfaces and trying to apply web standards with a better user experience. ⚛️✨
 
-- 🔭 I’m currently working on different internal projects.  
-- 💬 Feel free to ask me about everything you want.
-- 📱 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramilmamedov/), [Telegram](https://t.me/ramilmamedov).
-- 📩 Email me: [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com).
-- ⚡ Fun fact: I was a professional Olympic **archer** and national champion. I like playing **Chess**, listening to **Music**, reading about **Science**, watching **Sci-Fi & Fantasy**.
+🔭 I’m currently working on different internal projects.  
+
+💬 Feel free to ask me about everything you want.
+
+📩 Email me: [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
+
+⚡ Fun facts: I was a professional Olympic **archer** and national champion. I like playing **Chess**, listening to **Music**, reading about **Science**, watching **Sci-Fi & Fantasy**.
+
+## How to reach me 📨
+
+<a href="https://t.me/ramilmamedov" title="Telegram">
+  <img src="https://cdn.svgporn.com/logos/telegram.svg" title="Telegram" alt="Telegram" width="32" height="32"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/ramilmamedov" title="LinkedIn">
+  <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" title="LinkedIn" alt="LinkedIn" width="32" height="32"/>
+</a>&nbsp;
+<a href="https://twitter.com/rommelmamedov" title="Twitter">
+  <img src="https://cdn.svgporn.com/logos/twitter.svg" title="Twitter" alt="Twitter" width="32" height="32"/>
+</a> 
 
 ## Languages and Tools 🛠
 
@@ -47,5 +63,10 @@ I'm a frontend engineer with aiming to build accessible and useful web stuff. I 
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="32" height="32"/>&nbsp;
 </div>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=rommelmamedov&label=Profile%20Views&color=0e75b6&style=flat" alt="gigantz" />
+
+## Stats 📊
+
+<img src="https://komarev.com/ghpvc/?username=rommelmamedov&label=Profile%20Views&color=0e75b6&style=flat" alt="Porfile views" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelmamedov&layout=compact&count_private=true&theme=github_dark" alt="Most used languegas" width="500px" />
+<img src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&show_icons=true&count_private=true&theme=github_dark" alt="Github stats" width="500px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark" alt="WakaTime stats" width="500px" />  
