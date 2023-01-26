@@ -67,6 +67,7 @@ I'm a frontend engineer with aiming to build accessible and useful web stuff. I 
 ## Stats 📊
 
 <img src="https://komarev.com/ghpvc/?username=rommelmamedov&label=Profile%20Views&color=0e75b6&style=flat" alt="Porfile views" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelmamedov&layout=compact&count_private=true&theme=github_dark" alt="Most used languegas" width="500px" />
-<img src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&show_icons=true&count_private=true&theme=github_dark" alt="Github stats" width="500px" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark" alt="WakaTime stats" width="500px" />  
+
+<img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&theme=github_dark&show_icons=true&count_private=true&custom_title=GitHub%20Stats&card_width=500" />
+<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats&card_width=500"  />
+<img alt="Most used languegas" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelmamedov&theme=github_dark&layout=compact&count_private=true&hide_title&card_width=500"  />
