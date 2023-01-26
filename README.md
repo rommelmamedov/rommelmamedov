@@ -2,7 +2,7 @@
 
 ## About me 🧑🏻‍💻
 
-I'm a frontend engineer with aiming to build accessible and useful web stuff. I enjoy developing user interfaces and trying to apply web standards with a better user experience. ⚛️✨
+Frontend engineer with the goal of creating accessible and useful web interfaces. I enjoy developing UIs and trying to apply web standards with a better UX. ⚛️✨
 
 🔭 I’m currently working on different internal projects.  
 
