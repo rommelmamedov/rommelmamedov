@@ -66,8 +66,12 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 <br/>
 <img src="https://cdn.svgporn.com/logos/prettier.svg" title="Prettier" alt="Prettier" width="32" height="32"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/eslint.svg" title="ESLint" alt="ESLint" width="32" height="32"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/stylelint.svg" title="Stylelint" alt="Stylelint" width="32" height="32"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/38986496/215234326-52747795-344e-4bf5-ac70-a74bc03b051b.svg" title="Stylelint" alt="Stylelint" width="32" height="32"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/editorconfig.svg" title="Editorconfig" alt="Editorconfig" width="32" height="32"/>&nbsp;
+<br/>
+<img src="https://user-images.githubusercontent.com/38986496/215234323-2df8b6de-840d-4d77-95fa-0f0683c4fa39.svg" title="jQuery" alt="jQuery" width="32" height="32"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/38986496/215234282-0a2f7df6-f7c9-4f43-88db-202584f94a1f.svg" title="Lodash" alt="Lodash" width="32" height="32"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/38986496/215234325-7ae8f3db-3777-4068-9139-eebcd74cfef5.svg" title="Ramda" alt="Ramda" width="32" height="32"/>&nbsp;
 <br/>
 <img src="https://cdn.svgporn.com/logos/ant-design.svg" title="Ant Design" alt="Ant Design" width="32" height="32"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/material-ui.svg" title="Material UI" alt="Material UI" width="32" height="32"/>&nbsp;
@@ -76,10 +80,6 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 <img src="https://cdn.svgporn.com/logos/webpack.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/vitejs.svg" title="Vite" alt="Vite" width="32" height="32"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/gulp.svg" title="GulpJS" alt="GulpJS" width="32" height="32"/>&nbsp;
-<br/>
-<img src="https://cdn.svgporn.com/logos/jquery.svg" title="jQuery" alt="jQuery" width="32" height="32"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/lodash.svg" title="Lodash" alt="Lodash" width="32" height="32"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/ramda.svg" title="Ramda" alt="Ramda" width="32" height="32"/>&nbsp;
 <br/>
 <img src="https://cdn.svgporn.com/logos/pwa.svg" title="PWA" alt="PWA" width="32" height="32"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/metamask-icon.svg" title="Metamask" alt="Metamask" width="32" height="32"/>&nbsp;
