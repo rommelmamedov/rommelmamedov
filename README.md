@@ -1,10 +1,10 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> 
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 
 ## About me 🧑🏻‍💻
 
 Frontend engineer with the goal of creating accessible and useful web interfaces. I enjoy developing UIs and trying to apply web standards with a better UX. ⚛️✨
 
-🔭 I’m currently working on different internal projects.  
+🔭 I’m currently working on different internal projects.
 
 💬 Feel free to ask me about everything you want.
 
@@ -22,47 +22,73 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 </a>&nbsp;
 <a href="https://twitter.com/rommelmamedov" title="Twitter">
   <img src="https://cdn.svgporn.com/logos/twitter.svg" title="Twitter" alt="Twitter" width="32" height="32"/>
-</a> 
+</a>
 
 ## Languages and Tools 🛠
 
-<div style="display:flex; gap: 10px;">
-  <img src="https://cdn.svgporn.com/logos/react.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" title="NextJS" alt="NextJS" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/gatsby.svg" title="GastbyJS" alt="GastbyJS" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/redux.svg" title="Redux" alt="Redux" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/graphql.svg" title="GraphQL" alt="GraphQL" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/material-ui.svg" title="Material UI" alt="Material UI" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/ant-design.svg" title="Ant Design" alt="Ant Design" width="32" height="32"/>&nbsp;
-</div>
+<img src="https://cdn.svgporn.com/logos/react.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" title="NextJS" alt="NextJS" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/gatsby.svg" title="GastbyJS" alt="GastbyJS" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/redux.svg" title="Redux" alt="Redux" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/redux-saga.svg" title="Redux Saga" alt="Redux Saga" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/react-query-icon.svg" title="React Query" alt="React Query" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/graphql.svg" title="GraphQL" alt="GraphQL" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/testing-library.svg" title="Testing Library" alt="Testing Library" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/jest.svg" title="jest" alt="jest" width="32" height="32"/>&nbsp;
 <br/>
-<div style="display:flex; gap: 10px;">
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" title="HTML" alt="HTML" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" title="CSS" alt="CSS" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/python.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;
-</div>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML" width="32" height="32"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/sass.svg" title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/postcss.svg" title="PostCSS" alt="PostCSS" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/javascript.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" title="TypeScript" alt="TypeScript" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/python.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="32" height="32"/>&nbsp;
 <br/>
-<div style="display:flex; gap: 10px;">
-  <img src="https://cdn.svgporn.com/logos/sass.svg" title="SASS" alt="SASS" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/postcss.svg" title="PostCSS" alt="PostCSS" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/svg.svg" title="SVG" alt="SVG" width="32" height="32"/>&nbsp;
-</div>
+<img src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" alt="Git" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/bash-icon.svg" title="Bash" alt="Bash" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/json.svg" title="json" alt="json" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/svg.svg" title="SVG" alt="SVG" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/storybook-icon.svg" title="Storybook" alt="Storybook" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/docker-icon.svg" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/hasura-icon.svg" title="Hasura" alt="Hasura" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/netlify.svg" title="netlify" alt="netlify" width="32" height="32"/>&nbsp;
 <br/>
-<div style="display:flex; gap: 10px;">
-  <img src="https://cdn.svgporn.com/logos/webpack.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/vitejs.svg" title="Vite" alt="Vite" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/gulp.svg" title="GulpJS" alt="GulpJS" width="32" height="32"/>&nbsp;
-</div>
+<img src="https://cdn.svgporn.com/logos/figma.svg" title="Figma" alt="Figma" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/sketch.svg" title="Sketch" alt="Sketch" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/zeplin.svg" title="Zeplin" alt="Zeplin" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/invision-icon.svg" title="InVision" alt="InVision" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/adobe-xd.svg" title="Adobe XD" alt="Adobe XD" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title="VS Code" alt="VS Code" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/postman-icon.svg" title="Postman" alt="Postman" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/lighthouse.svg" title="Lighthouse" alt="Lighthouse" width="32" height="32"/>&nbsp;
 <br/>
-<div style="display:flex; gap: 10px;">
-  <img src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" alt="Git" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="32" height="32"/>&nbsp;
-</div>
+<img src="https://cdn.svgporn.com/logos/prettier.svg" title="Prettier" alt="Prettier" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/eslint.svg" title="ESLint" alt="ESLint" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/stylelint.svg" title="Stylelint" alt="Stylelint" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/editorconfig.svg" title="Editorconfig" alt="Editorconfig" width="32" height="32"/>&nbsp;
+<br/>
+<img src="https://cdn.svgporn.com/logos/ant-design.svg" title="Ant Design" alt="Ant Design" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/material-ui.svg" title="Material UI" alt="Material UI" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="32" height="32"/>&nbsp;
+<br/>
+<img src="https://cdn.svgporn.com/logos/webpack.svg" title="Webpack" alt="Webpack" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/vitejs.svg" title="Vite" alt="Vite" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/gulp.svg" title="GulpJS" alt="GulpJS" width="32" height="32"/>&nbsp;
+<br/>
+<img src="https://cdn.svgporn.com/logos/jquery.svg" title="jQuery" alt="jQuery" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/lodash.svg" title="Lodash" alt="Lodash" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/ramda.svg" title="Ramda" alt="Ramda" width="32" height="32"/>&nbsp;
+<br/>
+<img src="https://cdn.svgporn.com/logos/pwa.svg" title="PWA" alt="PWA" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/metamask-icon.svg" title="Metamask" alt="Metamask" width="32" height="32"/>&nbsp;
+<br/>
+<img src="https://cdn.svgporn.com/logos/jira.svg" title="Jira" alt="Jira" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/youtrack.svg" title="YouTrack" alt="YouTrack" width="32" height="32"/>&nbsp;
+<br/>
+<img src="https://cdn.svgporn.com/logos/npm-icon.svg" title="NPM" alt="NPM" width="32" height="32"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/yarn.svg" title="yarn" alt="yarn" width="32" height="32"/>&nbsp;
 
 ## Stats 📊
 
