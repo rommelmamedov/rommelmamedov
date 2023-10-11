@@ -8,21 +8,9 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 
 💬 Feel free to ask me about everything you want.
 
-📩 Email me: [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
+📩 Hot to reach me: [Mail](mailto:rommelmamedov@gmail.com) | [Telegram](https://t.me/ramilmamedov)
 
 ⚡ Fun facts: I was a professional Olympic **archer** and national champion. I like playing **Chess**, listening to **Music**, reading about **Science**, watching **Sci-Fi & Fantasy**.
-
-## How to reach me 📨
-
-<a href="https://t.me/ramilmamedov" title="Telegram">
-  <img src="https://cdn.svgporn.com/logos/telegram.svg" title="Telegram" alt="Telegram" width="32" height="32"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/ramilmamedov" title="LinkedIn">
-  <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" title="LinkedIn" alt="LinkedIn" width="32" height="32"/>
-</a>&nbsp;
-<a href="https://twitter.com/rommelmamedov" title="Twitter">
-  <img src="https://cdn.svgporn.com/logos/twitter.svg" title="Twitter" alt="Twitter" width="32" height="32"/>
-</a>
 
 ## Languages and Tools 🛠
 
@@ -94,5 +82,10 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 <img src="https://komarev.com/ghpvc/?username=rommelmamedov&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Porfile views" />
 
 <img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&theme=github_dark&show_icons=true&count_private=true&custom_title=GitHub%20Stats%20(All%20Time)&card_width=500" />
-<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)&card_width=500"  />
+
+<div style="display: flex; gap: 1rem;">
+   <img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)&card_width=500"  />
 <img alt="Most used languegas" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelmamedov&theme=github_dark&layout=compact&count_private=true&hide_title&card_width=500"  />
+</div>
+
+
