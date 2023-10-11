@@ -79,8 +79,6 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 
 ## Stats 📊
 
-# <img src="https://komarev.com/ghpvc/?username=rommelmamedov&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Porfile views" />
-
 <img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&theme=github_dark&show_icons=true&count_private=true&custom_title=GitHub%20Stats%20(All%20Time)&card_width=500" />
 
 <img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)&card_width=500"  />
