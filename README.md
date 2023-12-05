@@ -72,10 +72,10 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 
 ## Stats 📊
 
-<img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&theme=github_dark&show_icons=true&count_private=true&custom_title=GitHub%20Stats%20(All%20Time)&card_width=500" />
+<!--- <img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&theme=github_dark&show_icons=true&count_private=true&custom_title=GitHub%20Stats%20(All%20Time)&card_width=500" /> -->
 
-<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)&card_width=500"  />
+<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)&card_width=500"  /> 
 
-<img alt="Most used languegas" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelmamedov&theme=github_dark&layout=compact&count_private=true&hide_title&card_width=500"  />
+<!---  <img alt="Most used languegas" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelmamedov&theme=github_dark&layout=compact&count_private=true&hide_title&card_width=500"  /> -->
 
 
