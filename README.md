@@ -4,11 +4,13 @@
 
 Frontend engineer with the goal of creating accessible and useful web interfaces. I enjoy developing UIs and trying to apply web standards with a better UX. ⚛️✨
 
-🔭 I’m currently working on different internal projects.
+Based in Toronto, ON I'm passionate about empowering users through efficient and effective user interfaces. I’m currently working on different internal projects and exploring new technologies to enhance web accessibility and usability.
 
-💬 Feel free to ask me about everything you want.
+💬 Feel free to ask me about frontend technologies, UI/UX design strategies, or just to chat about the latest in web development!
 
-📩 Hot to reach me: [Mail](mailto:rommelmamedov@gmail.com) | [Telegram](https://t.me/ramilmamedov)
+📩 How to reach me:  
+- Email: [Mail](mailto:rommelmamedov@gmail.com)  
+- Chat: [Telegram](https://t.me/ramilmamedov)
 
 ⚡ Fun facts: I was a professional Olympic **archer** and national champion. I like playing **Chess**, listening to **Music**, reading about **Science**, and watching **Sci-Fi & Fantasy**.
 
@@ -73,9 +75,5 @@ Frontend engineer with the goal of creating accessible and useful web interfaces
 ## Stats 📊
 
 <!--- <img alt="Github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=rommelmamedov&theme=github_dark&show_icons=true&count_private=true&custom_title=GitHub%20Stats%20(All%20Time)&card_width=500" /> -->
-
-<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)&card_width=500"  /> 
-
+<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=WakaTime%20Stats%20(Last%207%20Days)&card_width=500" /> 
 <!---  <img alt="Most used languegas" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelmamedov&theme=github_dark&layout=compact&count_private=true&hide_title&card_width=500"  /> -->
-
-
