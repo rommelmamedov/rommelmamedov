@@ -1,14 +1,11 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 
-## About me 🧑🏻‍💻
+I'm a frontend engineer with the goal of creating accessible and useful web interfaces. I enjoy developing UIs and trying to apply web standards with a better UX. ⚛️✨
 
-Frontend engineer with the goal of creating accessible and useful web interfaces. I enjoy developing UIs and trying to apply web standards with a better UX. ⚛️✨
+📩 How to reach me: [Email](mailto:rommelmamedov@gmail.com) || [Telegram](https://t.me/ramilmamedov)
 
 💬 Feel free to ask me about frontend technologies, UI/UX design strategies, or just to chat about the latest in web development!
 
-📩 How to reach me:  
-- Email: [Mail](mailto:rommelmamedov@gmail.com)  
-- Chat: [Telegram](https://t.me/ramilmamedov)
 
 ⚡ Fun facts: I was a professional Olympic **archer** and national champion. I like playing **Chess**, listening to **Music**, reading about **Science**, and watching **Sci-Fi & Fantasy**.
 
