@@ -3,7 +3,7 @@
 I'm a frontend engineer focused on building accessible, performant, and reliable web applications. I care about clean code, good UX, and staying close to web standards.
 
 - [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
-- [Chat](https://t.me/ramilmamedov)
+- [telegram](https://t.me/ramilmamedov)
 
 <p>
   <img src="https://cdn.svgporn.com/logos/react.svg" title="React" alt="React" width="36" height="36"/>&nbsp;
