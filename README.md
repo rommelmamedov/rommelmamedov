@@ -1,6 +1,6 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 
-I'm a frontend engineer focused on building accessible, performant, and reliable web applications. I care about clean code, good UX, and staying close to web standards.
+I'm a frontend engineer building web apps. I care about clean code, good UX, and staying close to web standards.
 
 - [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
 - [telegram](https://t.me/ramilmamedov)
