@@ -1,9 +1,11 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 
-I'm a frontend engineer building web apps. I care about clean code, good UX, and staying close to web standards.
+I'm **Rommel**, a frontend engineer passionate about building fast, accessible, and user-friendly web apps.
 
-- [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com)
-- [telegram](https://t.me/ramilmamedov)
+You can reach me via [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com) or [telegram](https://t.me/ramilmamedov).
+
+
+### ⚒️ My Stack
 
 <p>
   <img src="https://cdn.svgporn.com/logos/react.svg" title="React" alt="React" width="36" height="36"/>&nbsp;
@@ -18,5 +20,6 @@ I'm a frontend engineer building web apps. I care about clean code, good UX, and
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="36" height="36"/>&nbsp;
 </p>
 
-<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=Last%20Week%20Coding%20Activity%20&card_width=700" />
 
+
+<img alt="WakaTime stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rommelmamedov&theme=github_dark&layout=compact&custom_title=📊%20Last%20Week%20Coding%20Activity%20&card_width=700" />
