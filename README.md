@@ -1,6 +1,6 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 
-I'm **Rommel**, a frontend engineer passionate about building fast, accessible, and user-friendly web apps.
+I'm **Ramil**, a frontend engineer passionate about building fast, accessible, and user-friendly web apps.
 
 You can reach me via [rommelmamedov@gmail.com](mailto:rommelmamedov@gmail.com) or [telegram](https://t.me/ramilmamedov).
 
